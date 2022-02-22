@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.p{
+    letter-spacing: 0.2px;
+    line-height: 120%;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.background-1{
+    background-color: #7e7d68;
+}
+.wrapper-1{
+    width: 1280px;
+    height: 790px;
+    margin: auto ;
+    background-image: url("../img/background1.png");
+    background-size: cover;
+}
+.header{
+    padding: 40px 0;
+}
+.logo{
+    width: 20%;
+    display: inline-block;
+    vertical-align: middle;
+    overflow: hidden;
+}
+.logo img{
+    width: 160px;
+    height: 100%;
+}
+.navigation{
+    width: 79%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+}
+.navigation ul{
+    list-style: none;
+}
+.navigation li{
+    display: inline-block;
+    margin-left: 100px;
+}
+.navigation a{
+    text-decoration: none;
+    color: black;
+}
+.wrapper-2{
+    background-color: white;
+    width: 1280px;
+    margin: auto ;
+}
+.aboutus{
+    padding: 180px 0 ;
+}
+.aboutus-left{
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+}
+.aboutus-left p{
+    margin-top: 220px;
+}
+.aboutus-right{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+    text-align: right;
+}
+.aboutus-right img{
+    height: 640px;
+}
+.hinh2{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+}
+.hinh2 img{
+    height: 400px;
+}
+.content-1{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 20px;
+}
+.hinh3{
+    width: 15%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 20px;
+}
+.hinh3 img{
+    height: 300px;
+}
+.hinh4{
+    width: 15%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+}
+.hinh4 img{
+    height: 160px;
+}
+.main2{
+    margin-top: 160px;
+}
+.bold-text{
+    font-weight: bold;
+}
+.justify-text{
+    text-align: justify;
+}
+.card{
+    width: 30%;
+    display: inline-block;
+    box-shadow: 20px 10px 20px #9c9c9c;
+    border-radius: 24px;
+    overflow: hidden;
+    margin: 100px 1%;
+    text-align: left;
+}
+.featuring-img{
+    overflow: hidden;
+    height: 260px;
+}
+.featuring-img img{
+    height: 100%;
+}
+.content-2{
+    padding: 32px 16px;
+}
+.content-2 h4{
+    color: #9c9c9c;
+}
+.content-2 p{
+    margin: 12px 0 32px;
+}
+.date{
+    font-size: 12px;
+    color: #9c9c9c;
+}
+.news{
+    padding: 200px 0;
+}
+.wrapper-3{
+    height: 180px;
+    width: 1280px;
+    background: url("../img/cta.png");
+    background-size: cover;
+    margin: auto;
+}
+.cta{
+
+}
+.cta-left{
+    width: 39%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 60px;
+
+}
+.cta-right{
+    width: 60%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 60px;
+    /* text-align: right; */
+}
+.name{
+    width: 25%;
+    display: inline-block;
+    vertical-align: middle;
+    border: solid 2px #e0dfdf;
+    padding: 4px 24px 4px 4px;
+}
+.e-mail{
+    width: 25%;
+    display: inline-block;
+    vertical-align: middle;
+    border: solid 2px #e0dfdf;
+    padding: 4px 24px 4px 4px;
+    margin: 0 100px;
+}
+.subscribe{
+    width: 15%;
+    display: inline-block;
+    vertical-align: middle;
+    border: solid 2px #e0dfdf;
+    padding: 2px 0;
+    text-align: center;
+}
+.white-text{
+    color: white;
+}
+.footer{
+
+    padding: 120px 0;
+}
+.about-footer{
+    width: 35%;
+    display: inline-block;
+    vertical-align: top;
+}
+.about-footer p{
+    line-height: 160%;
+}
+.list-footer{
+    width: 15%;
+    display: inline-block;
+    vertical-align: top;
+}
+.list-footer ul{
+    list-style: none;
+}
+.list-footer li a{
+    text-decoration: none;
+    color: white;
+}
+.list-footer li{
+    margin: 12px 0 0 20px;
+}
+.about-footer img{
+    width: 160px;
+    height: 100%;
+    margin-bottom: 10px;
+}
+.wrapper-footer{
+    width: 1280px;
+    background-color: #7e7d68;
+    margin: auto;
+}
+.background-2{
+    background-color: white;
+}
